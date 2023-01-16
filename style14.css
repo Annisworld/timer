@@ -1,0 +1,17 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
+.timer-container{
+    border: 5px solid gray;
+    background-color: yellowgreen;
+    margin-top: 20%;
+    border-radius: 2px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 120px;
+    margin: 0;
+}
