@@ -5,7 +5,7 @@ body{
 .timer-container{
     border: 5px solid gray;
     background-color: yellowgreen;
-    margin-top: 20%;
+    margin-top: 40vh;
     border-radius: 2px;
 }
 
@@ -14,4 +14,9 @@ h1{
     color: white;
     font-size: 120px;
     margin: 0;
+}
+@media(max-width:480px){
+    h1{
+        font-size: 80px;
+    }
 }
